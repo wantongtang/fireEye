@@ -3,7 +3,7 @@
 # confirm that I have receved task,and send to server 
 import urllib,urllib2
 import hmac
-from test import insert_a_task
+from insert_a_task import insert_a_task
 import re
 import os
 import random 
